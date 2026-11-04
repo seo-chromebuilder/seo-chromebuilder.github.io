@@ -1,0 +1,202 @@
+[
+  {
+    "title": "Google Business Profile",
+    "url": "https://www.google.com/business/"
+  },
+  {
+    "title": "Google Search Console",
+    "url": "https://search.google.com/search-console/about"
+  },
+  {
+    "title": "Google Analytics",
+    "url": "https://marketingplatform.google.com/about/analytics/"
+  },
+  {
+    "title": "Google Tag Manager",
+    "url": "https://marketingplatform.google.com/about/tag-manager/"
+  },
+  {
+    "title": "Google Trends",
+    "url": "https://trends.google.com/trends/"
+  },
+  {
+    "title": "Google Keyword Planner",
+    "url": "https://ads.google.com/home/tools/keyword-planner/"
+  },
+  {
+    "title": "PageSpeed Insights",
+    "url": "https://pagespeed.web.dev/"
+  },
+  {
+    "title": "Rich Results Test",
+    "url": "https://search.google.com/test/rich-results"
+  },
+  {
+    "title": "Schema Markup Validator",
+    "url": "https://validator.schema.org/"
+  },
+  {
+    "title": "Bing Webmaster Tools",
+    "url": "https://www.bing.com/webmasters/about"
+  },
+  {
+    "title": "Bing Places",
+    "url": "https://www.bingplaces.com/"
+  },
+  {
+    "title": "Apple Business Connect",
+    "url": "https://businessconnect.apple.com/"
+  },
+  {
+    "title": "Looker Studio",
+    "url": "https://lookerstudio.google.com/overview"
+  },
+  {
+    "title": "Microsoft Clarity",
+    "url": "https://clarity.microsoft.com/"
+  },
+  {
+    "title": "Chrome Lighthouse",
+    "url": "https://developer.chrome.com/docs/lighthouse/overview/"
+  },
+  {
+    "title": "Chrome DevTools",
+    "url": "https://developer.chrome.com/docs/devtools/"
+  },
+  {
+    "title": "W3C HTML Validator",
+    "url": "https://validator.w3.org/"
+  },
+  {
+    "title": "WAVE Accessibility Tool",
+    "url": "https://wave.webaim.org/"
+  },
+  {
+    "title": "ShoutEx: Local SEO",
+    "url": "https://hub.shoutex.com/local-seo/"
+  },
+  {
+    "title": "ShoutEx: How long local SEO takes",
+    "url": "https://hub.shoutex.com/local-seo/how-long-local-seo-takes/"
+  },
+  {
+    "title": "Google SEO Starter Guide",
+    "url": "https://developers.google.com/search/docs/fundamentals/seo-starter-guide"
+  },
+  {
+    "title": "Improve your local ranking",
+    "url": "https://support.google.com/business/answer/7091"
+  },
+  {
+    "title": "Business representation guidelines",
+    "url": "https://support.google.com/business/answer/3038177"
+  },
+  {
+    "title": "Ask for business reviews",
+    "url": "https://support.google.com/business/answer/3474122"
+  },
+  {
+    "title": "Local business structured data",
+    "url": "https://developers.google.com/search/docs/appearance/structured-data/local-business"
+  },
+  {
+    "title": "Google Search Essentials",
+    "url": "https://developers.google.com/search/docs/essentials"
+  },
+  {
+    "title": "Helpful, reliable content",
+    "url": "https://developers.google.com/search/docs/fundamentals/creating-helpful-content"
+  },
+  {
+    "title": "Core Web Vitals",
+    "url": "https://web.dev/articles/vitals"
+  },
+  {
+    "title": "Schema.org LocalBusiness",
+    "url": "https://schema.org/LocalBusiness"
+  },
+  {
+    "title": "Google Search spam policies",
+    "url": "https://developers.google.com/search/docs/essentials/spam-policies"
+  },
+  {
+    "title": "Local SEO in the GTA",
+    "url": "https://telegra.ph/Local-SEO-in-the-GTA-How-to-Get-Your-Business-Found-in-Toronto-and-Surrounding-11-04"
+  },
+  {
+    "title": "Additional reading on HackMD",
+    "url": "https://hackmd.io/@fs_4uwvyQDygT19ZMN5bZg/SySqL7uTMg"
+  },
+  {
+    "title": "Chrome extension overview",
+    "url": "https://developer.chrome.com/docs/extensions/"
+  },
+  {
+    "title": "Manifest file reference",
+    "url": "https://developer.chrome.com/docs/extensions/reference/manifest"
+  },
+  {
+    "title": "activeTab permissions",
+    "url": "https://developer.chrome.com/docs/extensions/develop/concepts/activeTab"
+  },
+  {
+    "title": "Content scripts",
+    "url": "https://developer.chrome.com/docs/extensions/develop/concepts/content-scripts"
+  },
+  {
+    "title": "Extension service workers",
+    "url": "https://developer.chrome.com/docs/extensions/develop/concepts/service-workers"
+  },
+  {
+    "title": "Message passing",
+    "url": "https://developer.chrome.com/docs/extensions/develop/concepts/messaging"
+  },
+  {
+    "title": "Chrome storage API",
+    "url": "https://developer.chrome.com/docs/extensions/reference/api/storage"
+  },
+  {
+    "title": "Chrome side panel API",
+    "url": "https://developer.chrome.com/docs/extensions/reference/api/sidePanel"
+  },
+  {
+    "title": "OpenAI Responses API",
+    "url": "https://developers.openai.com/api/reference/responses/overview"
+  },
+  {
+    "title": "OpenAI Structured Outputs",
+    "url": "https://developers.openai.com/api/docs/guides/structured-outputs"
+  },
+  {
+    "title": "OpenAI production practices",
+    "url": "https://developers.openai.com/api/docs/guides/production-best-practices"
+  },
+  {
+    "title": "OpenAI evaluations",
+    "url": "https://developers.openai.com/api/docs/guides/evals"
+  },
+  {
+    "title": "Search Console API",
+    "url": "https://developers.google.com/webmaster-tools/"
+  },
+  {
+    "title": "Business Profile APIs",
+    "url": "https://developers.google.com/my-business/"
+  },
+  {
+    "title": "OWASP API Security",
+    "url": "https://owasp.org/www-project-api-security/"
+  },
+  {
+    "title": "JSON Schema documentation",
+    "url": "https://json-schema.org/learn/getting-started-step-by-step"
+  },
+  {
+    "title": "MDN Content Security Policy",
+    "url": "https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP"
+  },
+  {
+    "title": "Web Store program policies",
+    "url": "https://developer.chrome.com/docs/webstore/program-policies/"
+  }
+]
